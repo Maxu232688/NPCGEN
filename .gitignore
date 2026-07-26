@@ -1,0 +1,16 @@
+# Unreal Engine Plugin
+Binaries/
+Intermediate/
+.vs/
+Saved/
+
+# Visual Studio
+*.suo
+*.user
+*.sln
+*.sln.docstates
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
