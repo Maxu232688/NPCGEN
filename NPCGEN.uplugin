@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NPC Placement Tool",
+	"Description": "可视化 NPC 放置工具，支持第三人称漫游、快捷键生成、差异对比热更新",
+	"Category": "Editor Tools",
+	"CreatedBy": "MX",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NPCPlacementTool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "NPCPlacementToolEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
